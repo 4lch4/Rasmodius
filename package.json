@@ -1,0 +1,37 @@
+{
+  "name": "rasmodius",
+  "displayName": "Rasmodius",
+  "version": "0.0.1",
+  "description": "A Discord bot for interacting with the official Stardew Valley wiki.",
+  "main": "Rasmodius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Rasmodius.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paranoid-Devs/Rasmodius.git"
+  },
+  "keywords": [
+    "Stardew",
+    "Valley",
+    "Wiki"
+  ],
+  "readme": "README.md",
+  "icon": "./img/Rasmodius.png",
+  "author": "Alcha <alcha@paranoiddevs.com> (https://paranoiddevs.com/)",
+  "license": "CC-BY-NC-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/Paranoid-Devs/Rasmodius/issues"
+  },
+  "homepage": "https://github.com/Paranoid-Devs/Rasmodius#readme",
+  "devDependencies": {
+    "standard": "10.0.3"
+  },
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "discord.js-commando": "github:gawdl3y/discord.js-commando",
+    "moment-timezone": "^0.5.14",
+    "sqlite": "^2.9.1"
+  }
+}
