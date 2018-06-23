@@ -1,5 +1,7 @@
 # Rasmodius (WIP)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Alcha/Rasmodius.svg)](https://greenkeeper.io/)
+
 Rasmodius, otherwise known as **[M. Rasmodius](https://stardewvalleywiki.com/Wizard)**, is a Discord
 bot for interacting with the [Stardew Valley Wiki](https://stardewvalleywiki.com/). All of the data
 that is made available by this bot is from the previously mentioned wiki.
